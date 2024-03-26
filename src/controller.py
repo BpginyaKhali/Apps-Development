@@ -8,7 +8,7 @@ class Controller:
         pass
 
     def start_stop_button_handler(self):
-        pass
+        print("clicked")
 
     def count_statistics(self):
         pass
